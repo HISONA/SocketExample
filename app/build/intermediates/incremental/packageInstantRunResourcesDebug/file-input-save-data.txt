@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Sun Jun 11 12:16:21 KST 2017
+2.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+5.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/res/layout/socket_example.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/res/layout/mainlist.xml
+0.set=ANDROID_RESOURCE

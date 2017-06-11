@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sun Jun 11 12:16:24 KST 2017
+2.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_58ca210794c8e284abb85d9ea6fb504c5c5ecd5b
+6.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/res/layout/mainlist.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2f1c9b34399e6af61024e20ac57c0029bef48ae
+7.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/res/layout/socket_example.xml
+5.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+4.set=DEX
+6.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_58ca210794c8e284abb85d9ea6fb504c5c5ecd5b/classes.dex
+3.set=DEX
+1.base=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2f1c9b34399e6af61024e20ac57c0029bef48ae/classes.dex
+0.set=ANDROID_RESOURCE

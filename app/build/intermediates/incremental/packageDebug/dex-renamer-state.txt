@@ -1,0 +1,7 @@
+#Sun Jun 11 12:16:24 KST 2017
+base.0=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_58ca210794c8e284abb85d9ea6fb504c5c5ecd5b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2f1c9b34399e6af61024e20ac57c0029bef48ae/classes.dex
+base.1=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2f1c9b34399e6af61024e20ac57c0029bef48ae
+file.0=/Users/hisona/AndroidStudioProjects/SocketExample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_58ca210794c8e284abb85d9ea6fb504c5c5ecd5b/classes.dex
