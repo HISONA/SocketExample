@@ -176,7 +176,8 @@ public class UDPSocketActivity extends Activity {
     			DatagramSocket udp = new DatagramSocket();
         		try 
 				{
-        			InetAddress server = InetAddress.getByName("127.0.0.1");
+        			// InetAddress server = InetAddress.getByName("127.0.0.1");
+					InetAddress server = InetAddress.getByName("255.255.255.255");
         			int port = 12345;
 
 	        		DatagramPacket s_packet = new DatagramPacket(sbuffer, len, server, port);
